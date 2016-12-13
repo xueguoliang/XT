@@ -1,3 +1,3 @@
 # XT
 
-[http://xueguoliang.cn/XT](http://xueguoliang/XT)
+[http://xueguoliang.cn/XT](http://xueguoliang.cn/XT)
