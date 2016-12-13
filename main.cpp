@@ -23,9 +23,9 @@ void cbk(XTTimer* timer)
 
 int main(int argc, char* argv[])
 {
- //   XTTimer::addTimer(10000, cbk);
- //   XTTimer::addTimer(1000, cbk);
-  //  XTTimer::addTimer(2000, cbk);
+//  XTTimer::addTimer(10000, cbk);
+//  XTTimer::addTimer(1000, cbk);
+//  XTTimer::addTimer(2000, cbk);
     vector<string> ids;
     ids.push_back("ag1612");
     XTCore::instance()->subscribe(ids);

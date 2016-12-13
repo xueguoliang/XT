@@ -56,8 +56,6 @@ int XTThread::start()
     return fd[0];
 }
 
-
-
 void XTThread::run()
 {
 
